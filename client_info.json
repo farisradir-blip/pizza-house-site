@@ -1,0 +1,18 @@
+{
+  "name": "Pizza house",
+  "category": "Pizzeria",
+  "address": "25 Rue des Changes, 31000 Toulouse, France",
+  "phone": "+33 9 62 35 11 50",
+  "rating": 4.9,
+  "review_count": 418,
+  "slug": "pizza-house",
+  "public_site": "https://farisradir-blip.github.io/pizza-house-site",
+  "pages": [
+    "index.html",
+    "menu.html",
+    "reservation.html",
+    "galerie.html",
+    "contact.html",
+    "admin.html"
+  ]
+}
